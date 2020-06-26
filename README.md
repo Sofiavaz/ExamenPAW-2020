@@ -1,6 +1,6 @@
 # ExamenPAW-2020
 
-### Alumna: Sofia Vazquez
+### Alumna: Sofia Gimena Vazquez
 
 ### Legajo: 138224
 
